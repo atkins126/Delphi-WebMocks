@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/appercept/Delphi-WebMocks)
+
 # Delphi-WebMocks
 Library for stubbing and setting expectations on HTTP requests in Delphi with
 [DUnitX](https://github.com/VSoftTechnologies/DUnitX).
