@@ -1,4 +1,5 @@
 ![GitHub](https://img.shields.io/github/license/appercept/Delphi-WebMocks)
+![Maintenance](https://img.shields.io/maintenance/yes/2020)
 
 # Delphi-WebMocks
 Library for stubbing and setting expectations on HTTP requests in Delphi with
